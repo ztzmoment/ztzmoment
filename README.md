@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ztzmoment
 - 👀 I’m interested in Coding
 - 🌱 I’m still keeping studying, and I'm a beginner
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me : QQ:1063737611  WeChat:dealitscard
 
 <!---
